@@ -1,0 +1,2 @@
+defmodule Exultant do
+end
